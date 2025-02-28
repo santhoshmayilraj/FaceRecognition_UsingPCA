@@ -1,5 +1,5 @@
 ## Face Recognition with PCA & Machine Learning 
-Welcome to this exciting face recognition project! Here, we blend math, machine learning, and a bit of magic ✨ to identify faces with the power of Principal Component Analysis (PCA). By reducing image dimensions while keeping the most important features, our system recognizes faces accurately and efficiently!
+Hi Again, This is Santhosh, your friendly neighbourhood coder. Alright, let’s do this one last time - this is Face Recognition.Welcome to this exciting face recognition project! Here, we blend math, machine learning, and a bit of magic to identify faces with the power of Principal Component Analysis (PCA). By reducing image dimensions while keeping the most important features, our system recognizes faces accurately and efficiently!
 
 ### 🚀 Project Overview
 Ever wondered how facial recognition works? This project explores just that! We take a dataset of 40 unique individuals, apply PCA to simplify the image data, and then use machine learning to classify faces. Plus, you can even add your own custom images to test it out!
