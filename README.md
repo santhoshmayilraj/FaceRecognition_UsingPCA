@@ -36,6 +36,8 @@ Our project showcases how PCA makes facial recognition more efficient by removin
 
 📌 Plus, we’ve prepared a PowerPoint presentation (project_presentation.pptx) and a detailed report (project_report.pdf) to explain our methodology, implementation, and findings.
 
+With great code comes great responsibility... this is my gift, my curse. Who am I? Your friendly neighbourhood coder.
+
 📩 Email: santhoshmayilraj@gmail.com
 🐙 GitHub: Santhosh M
 
